@@ -1,15 +1,15 @@
-Hello world!
+Hello world! Locally!
 Edit locally!
 
 local text here
 
-Some github text here
+Some github text here. Locally!
 
 SOMETHING HERE FROM GITHUB! On the same line from GITHUB!
 
 What!
 and here.
-and github text here.
+and github text here. Locally!
 
 
 
