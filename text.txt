@@ -1,4 +1,4 @@
-Hello world! GitHub!
+Hello world! github!
 Edit locally!
 
 local text here
