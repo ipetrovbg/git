@@ -5,7 +5,7 @@ local text here
 
 Some github text here. Locally!
 
-SOMETHING HERE FROM GITHUB! On the same line from githul!
+SOMETHING HERE FROM GITHUB! On the same line from github!
 
 What!
 and here.
