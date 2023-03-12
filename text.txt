@@ -1,18 +1,9 @@
 Hello world!
 Edit locally!
 
-<<<<<<< HEAD
 local text here
-=======
 
 Some github text here
->>>>>>> bb4272c7912885b38f08ff29871be06ecb2eddaf
 
-
-
-
-<<<<<<< HEAD
 and here.
-=======
 and github text here.
->>>>>>> bb4272c7912885b38f08ff29871be06ecb2eddaf
