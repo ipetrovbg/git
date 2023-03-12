@@ -5,7 +5,11 @@ local text here
 
 Some github text here
 
+<<<<<<< HEAD
 SOMETHING HERE FROM GITHUB! What!
+=======
+SOMETHING HERE FROM GITHUB! On the same line from GITHUB!
+>>>>>>> b49b6359818371b61f62eac47902d8aa89809508
 
 and here.
 and github text here.
