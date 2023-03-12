@@ -10,3 +10,8 @@ SOMETHING HERE FROM GITHUB! On the same line from GITHUB!
 What!
 and here.
 and github text here.
+
+fn main() {
+	println!("{}", 2);
+}
+
