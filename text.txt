@@ -12,7 +12,7 @@ and here.
 and github text here.
 
 fn main() {
-	println!("{}", 5)
+	println!("{}", 5);
 }
 
 
