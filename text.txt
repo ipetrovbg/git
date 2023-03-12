@@ -1,2 +1,6 @@
 Hello world!
+<<<<<<< HEAD
 Edit locally!
+=======
+Edit!
+>>>>>>> 2fa8f3bb5d28404295b2906e92c38e91ceb77d2c
