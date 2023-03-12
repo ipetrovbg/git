@@ -3,7 +3,7 @@ Edit locally!
 
 local text here
 
-Some github text here. GitHub!
+Some github text here. Locally!
 
 SOMETHING HERE FROM GITHUB! On the same line from GITHUB!
 
